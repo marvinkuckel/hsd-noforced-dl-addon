@@ -17,6 +17,7 @@
                 "https://mdl.hs-duesseldorf.de/*"
             ],
             "js": [
+                "lib/browser-polyfill.min.js",
                 "content.js"
             ]
         }
